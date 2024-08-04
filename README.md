@@ -74,9 +74,9 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=node.js" width="48" height="48" alt="node.js" />
-      <br>Node.js
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/node-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
     </td>
        <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
