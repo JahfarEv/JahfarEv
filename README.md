@@ -59,6 +59,10 @@
         <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="bootstrap" />
       <br>Next.js
     </td>
+       <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="62" height="62" />
       <br>Java
