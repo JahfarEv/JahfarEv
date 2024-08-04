@@ -75,7 +75,7 @@
       <br>Github
     </td>
      <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=node" width="48" height="48" alt="node.js" />
+        <img src="https://skillicons.dev/icons?i=node.js" width="48" height="48" alt="node.js" />
       <br>Node.js
     </td>
        <td align="center"  width="96">
